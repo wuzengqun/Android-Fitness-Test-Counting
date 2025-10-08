@@ -29,11 +29,11 @@ https://github.com/nihui/mesa-turnip-android-driver
 
 yolo11-pose模型转换指南   
 ---
-步骤一、
-https://github.com/ultralytics/ultralytics
-● 克隆yolo11官方项目
+步骤一、  
+https://github.com/ultralytics/ultralytics  
+● 克隆yolo11官方项目  
 
-步骤二、
-● 下载默认权重或使用自己训练的权重文件
-● 在自己的环境里运行: yolo export model=yolo11n-pose.pt format=ncnn
-● 在同级目录下的yolo11n-pose_ncnn_model文件里可以找到:model.ncnn.bin、model.ncnn.param
+步骤二、  
+● 下载默认权重或使用自己训练的权重文件  
+● 在自己的环境里运行: yolo export model=yolo11n-pose.pt format=ncnn  
+● 在同级目录下的yolo11n-pose_ncnn_model文件里可以找到:model.ncnn.bin、model.ncnn.param  
