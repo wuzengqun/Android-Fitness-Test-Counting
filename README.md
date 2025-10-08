@@ -25,9 +25,13 @@ https://github.com/nihui/mesa-turnip-android-driver
   ● 编译并烧录至手机享受它  
 
 运行效果:  
-<video src="https://github.com/user-attachments/assets/b54d974c-84c3-4949-80eb-31f1c37ee2bd" controls width="800">
+<video src="https://github.com/user-attachments/assets/76baf2dc-dbb9-453a-b230-7379bdd9776b" controls width="800">
   Your browser does not support the video tag.
 </video>  
+
+
+
+
 
 
 
