@@ -12,8 +12,8 @@ https://github.com/nihui/mesa-turnip-android-driver
   安装Android Studio（此项目使用2022.3.1版本）  
 
 步骤二、  
-  https://mirrors.aliyun.com/github/releases/gradle/gradle-distributions/v6.7.1/  
-  下载gradle6.7.1，并放在适当的位置    
+  · https://mirrors.aliyun.com/github/releases/gradle/gradle-distributions/v6.7.1/  
+  · 下载gradle6.7.1，并放在适当的位置    
 
 步骤三、  
   克隆此项目，使用Android Studio打开   
