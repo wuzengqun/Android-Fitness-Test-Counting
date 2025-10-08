@@ -25,7 +25,14 @@ https://github.com/nihui/mesa-turnip-android-driver
   ● 编译并烧录至手机享受它  
 
 运行效果:  
-  
+<video src="https://github.com/user-attachments/assets/e9205370-0124-4e8f-a94b-50b8aa6c9f81" controls width="800">
+  Your browser does not support the video tag.
+</video>  
+
+
+
+
+
 
 yolo11-pose模型转换指南   
 ---
