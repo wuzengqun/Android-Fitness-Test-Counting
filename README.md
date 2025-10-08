@@ -9,18 +9,18 @@ https://github.com/nihui/mesa-turnip-android-driver
 如何构建和运行
 ----
 步骤一、  
-  安装Android Studio（此项目使用2022.3.1版本）  
+  ● 安装Android Studio（此项目使用2022.3.1版本）  
 
 步骤二、  
-  · https://mirrors.aliyun.com/github/releases/gradle/gradle-distributions/v6.7.1/  
-  · 下载gradle6.7.1，并放在适当的位置    
+  ● https://mirrors.aliyun.com/github/releases/gradle/gradle-distributions/v6.7.1/  
+  ● 下载gradle6.7.1，并放在适当的位置    
 
 步骤三、  
-  克隆此项目，使用Android Studio打开   
-  打开设置，按照下面这样选择gradle和JDK，可以减少出错概率  
+  ● 克隆此项目，使用Android Studio打开   
+  ● 打开设置，按照下面这样选择gradle和JDK，可以减少出错概率  
 
 步骤四、  
-  编译并烧录至手机享受它  
+  ● 编译并烧录至手机享受它  
 
 yolo11-pose模型转换指南   
 ---
