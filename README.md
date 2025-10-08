@@ -18,6 +18,8 @@ https://github.com/nihui/mesa-turnip-android-driver
 步骤三、  
   ● 克隆此项目，使用Android Studio打开   
   ● 打开设置，按照下面这样选择gradle和JDK，可以减少出错概率  
+  <img width="838" height="319" alt="c896c25182862b6acf34452e49f816d1" src="https://github.com/user-attachments/assets/253af3ae-0251-46f1-948b-e608366f5d59" />  
+
 
 步骤四、  
   ● 编译并烧录至手机享受它  
